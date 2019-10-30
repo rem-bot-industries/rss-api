@@ -13,7 +13,7 @@
     "cors": "^2.8.3",
     "docker-config-loader": "^1.0.0",
     "express": "^4.15.3",
-    "mongoose": "^4.10.5",
+    "mongoose": "^5.7.5",
     "redis": "^2.7.1",
     "shortid": "^2.2.8",
     "tsubaki": "^1.1.1",
