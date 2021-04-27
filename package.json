@@ -14,7 +14,7 @@
     "docker-config-loader": "^1.0.0",
     "express": "^4.15.3",
     "mongoose": "^5.7.5",
-    "redis": "^2.7.1",
+    "redis": "^3.1.1",
     "shortid": "^2.2.8",
     "tsubaki": "^1.1.1",
     "winston": "^2.3.1"
